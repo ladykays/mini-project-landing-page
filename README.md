@@ -11,7 +11,7 @@ Please click on the text fields to enter your details, then cliick the send buto
 ![Screenshot](assets/images/screenshot.png)
 
 ## Link
-
+https://ladykays.github.io/mini-project-landing-page/
 
 ## Credits
 * Photo by <a href="https://unsplash.com/@chenhanozel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chen Mizrach</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
